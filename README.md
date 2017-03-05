@@ -1,0 +1,3 @@
+### Lynda - Adding Dynamic QR Codes
+
+  Learn to use the free Google Chart API to add dynamic QR codes to your webpages. This course covers four options for generating the QR code: pointing Google Chart to an image URL, using server-side code to retrieve the URL, injecting the URL code with JavaScript, and generating the QR code with JavaScript and jQuery. So stop creating QR codes by hand; learn how to generate them dynamically with these tricks.
